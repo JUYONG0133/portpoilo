@@ -35,7 +35,7 @@ function Contact() {
                 Phone
               </Typography>
               <Typography variant="body1">
-                010-1234-5678
+                010-3687-6743
               </Typography>
             </Box>
           </div>
